@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Serbenyuk Dmitriy",
+    "label": "Junior Developer",
+    "picture": "./profilePhoto.jpg",
+    "email": "serbenyukgood@gmail.com",
+    "phone": "+380968496321",
+    "website": "http://freaksauce.com",
+    "summary": "Over the past I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & java but I have also desire to learn new technologies.",
+    "location": {
+      "address": "Ukraine",
+      "postalCode": "2232",
+      "city": "Odessa",
+      "countryCode": "Ukraine",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "Dima Serbenyuk",
+        "url": "https://www.linkedin.com/in/dima-serbenyuk-b64b15128/"
+      },
+      {
+        "network": "Github",
+        "username": "DimaSerbenyuk",
+        "url": "https://github.com/DimaSerbenyuk"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Odessaoblenergo",
+      "position": "Software engineer",
+      "website": "",
+      "startDate": "2018-04-05",
+      "endDate": "2018-05-05",
+      "summary": "Enterprise support microsoft dynamics ax working with Oracle databases is one of Microsoft's software solutions, now called Dynamics, for automating enterprise management (ERP systems) supplied by Microsoft Dynamics. The system was designed for medium and large business segments.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Software Development",
+      "area": "",
+      "studyType": "Industrial Automation Technical School",
+      "startDate": "2012-01-01",
+      "endDate": "2016-07-01"
+    },
+    {
+      "institution": "Information control systems and technologies",
+      "area": "",
+      "studyType": "Odessa National Academy of Food Technologies",
+      "startDate": "2016-09-01",
+      "endDate": "2018-05-30"
+    },
+    {
+      "institution": "Faculty of Computer Systems and Automation",
+      "area": "",
+      "studyType": "Odessa National Academy of Food Technologies",
+      "startDate": "2018-09-01",
+      "endDate": "2019-05-01"
+    }
+
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "java",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES2015",
+        "jQuery",
+        "React",
+        "SASS",
+        "Babel",
+        "Bootstrap",
+        "Node",
+        "MySQL",
+        "Git"
+      ]
+    }
+  ],
+  "Language": [
+    {
+      "name": "Front End Development",
+      "level": "Master"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Guitar",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
